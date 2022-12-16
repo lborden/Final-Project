@@ -26,4 +26,10 @@ From the trend tests run, the results are as followed for the adjusted R^2 value
 
 # Discussion
 
+Given the results of the trend tests, it is obvious that the coefficient of determination is best for shrubs, even though it does not contain the maximum number of species tests. This opens the discussion on whether enough data was presented by the Environmental Protection Agency. There is the opportunity for all tests to be neutralized if they were taken in the same region and the deliverables were taken from the same species. Since each data sample was taken in a specific area of the country, the data was misinterpreted because there was no set test statistic.
+
 # Conclusion
+
+
+
+# Future analysis
