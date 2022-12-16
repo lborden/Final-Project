@@ -18,6 +18,8 @@ Coordinates were attempted to be retrieved for the species samples so that speci
 
 Model Description
 
+Trend tests will be developed using R’s package library. Using the EPA data, it will be determined if there is a specific grow form that this data favors, given how further analysis about location could not be achieved from this dataset.
+
 # Results
 
 # Discussion
