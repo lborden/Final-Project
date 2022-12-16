@@ -22,6 +22,8 @@ Trend tests will be developed using R’s package library. Using the EPA data, i
 
 # Results
 
+From the trend tests run, the results are as followed for the adjusted R^2 value, the coefficient of determination. For trees it resulted in 0.9981, shrubs was 0.9991, herbaceous growth was 0.9988, and vines was also 0.9988. Therefore, when examining canopy cover, shrubs appear to be the best option. This may have to do with the fact that shrubs can expand across the ground while trees tend to have always grown vertically, and vines have primarily grown on trees or buildings. Also, from the original dataset, there are only 176 different tree species, 238 shrubs, 1,038 herbaceous growth forms, and 51 vines.
+
 # Discussion
 
 # Conclusion
