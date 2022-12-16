@@ -28,8 +28,10 @@ From the trend tests run, the results are as followed for the adjusted R^2 value
 
 Given the results of the trend tests, it is obvious that the coefficient of determination is best for shrubs, even though it does not contain the maximum number of species tests. This opens the discussion on whether enough data was presented by the Environmental Protection Agency. There is the opportunity for all tests to be neutralized if they were taken in the same region and the deliverables were taken from the same species. Since each data sample was taken in a specific area of the country, the data was misinterpreted because there was no set test statistic.
 
+# Future analysis
+
+To continue research on this topic, information regarding testing locations and dates for the tests would be required. This would allow for an analysis of the weather conditions and general ground cover of the testing area. If all locations were located in the same area, then it would be much more clear as to which variables directly impact the canopy cover percentage. As stated before, regions of the country are home to different types of vegetation. Canopy cover is important in all areas, so it is critical to determine how different factors impact canopy cover.
+
 # Conclusion
 
-
-
-# Future analysis
+Different vegetation types are critical in different areas of the country. Shrubs have been proven to be the best type of vegetation when considering canopy cover with the test statistics being nitrogen deposition, precipitation, air temperature, solar radiation, clay percentage, root depth, water storage, and the pH of soil. Landscape architects can use this data when determining the plant type to use in future projects. It is critical however to consider the location of testing sites. In all, shrubs were concluded to have the best overall impact when it comes to canopy cover for different vegetation types.
