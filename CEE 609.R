@@ -153,7 +153,7 @@ lm1<-lm(trees$means.5.~trees$means.1.+trees$means.2.+trees$means.3.+trees$means.
 lm1
 summary(lm1)
 
-#Create a subset of the data so that only trees are analyzed
+#Create a subset of the data so that only shrubs are analyzed
 type<-input1$GROWFORM
 subset.data.frame(type,GROWFORM=Shrub, FALSE)
 input1[input1$GROWFORM=='Shrub',]
@@ -166,7 +166,7 @@ lm2<-lm(shrubs$means.5.~shrubs$means.1.+shrubs$means.2.+shrubs$means.3.+shrubs$m
 lm2
 summary(lm2)
 
-#Create a subset of the data so that only trees are analyzed
+#Create a subset of the data so that only herbs are analyzed
 type<-input1$GROWFORM
 subset.data.frame(type,GROWFORM=Shrub, FALSE)
 input1[input1$GROWFORM=='Herbaceous',]
@@ -179,7 +179,7 @@ lm3<-lm(herbs$means.5.~herbs$means.1.+herbs$means.2.+herbs$means.3.+herbs$means.
 lm3
 summary(lm3)
 
-#Create a subset of the data so that only trees are analyzed
+#Create a subset of the data so that only vines are analyzed
 type<-input1$GROWFORM
 subset.data.frame(type,GROWFORM=Shrub, FALSE)
 input1[input1$GROWFORM=='Vine',]
