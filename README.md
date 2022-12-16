@@ -14,6 +14,8 @@ The dataset was obtained from the United States Environmental Protection Agency 
 
 Data Processing Description
 
+Coordinates were attempted to be retrieved for the species samples so that specific locations could be used to determine if there are outside factors that could be swaying outcomes. For example, if samples were taken in Arizona or New Mexico there would be very little precipitation with high air temperatures and solar radiation. Since this could not be concluded, all data was split by species type. Subsets of the data were created for trees, shrubs, vines, and herbaceous growth so that they could be analyzed by determining which grow form is best in terms of canopy cover.
+
 Model Description
 
 # Results
